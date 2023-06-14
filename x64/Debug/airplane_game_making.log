@@ -1,2 +1,3 @@
 ﻿  game_code.c
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(586,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
   airplane_game_making.vcxproj -> C:\Users\User\source\repos\airplane_game_making\x64\Debug\airplane_game_making.exe
