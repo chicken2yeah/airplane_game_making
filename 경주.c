@@ -21,7 +21,7 @@ int main() {
     char key;
     char prevKey = '\0';
 
-    printf("레이싱 게임을 시작합니다!\n");
+    printf("레이싱 게임을 시작합니다\n");
     printf("목표: P 문자를 F 문자까지 이동시키세요.\n\n");
 
     while (1) {
