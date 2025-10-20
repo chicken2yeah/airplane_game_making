@@ -1,3 +1,11 @@
 ﻿  game_code.c
-C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(586,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(1094,40): warning C4047: '<=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(7861,9): warning C4013: 'lose_the_game'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(8252,23): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(8871,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(6176,1): warning C4716: 'beaksin_get': 값을 반환해야 합니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(8280,1): warning C4716: 'lose_the_game': 값을 반환해야 합니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(8261,1): warning C4716: 'race_main': 값을 반환해야 합니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(9402,1): warning C4716: 'dodazi_mini_game': 값을 반환해야 합니다.
+C:\Users\User\source\repos\airplane_game_making\airplane_game_making\game_code.c(9263,1): warning C4716: 'mini_game_balling': 값을 반환해야 합니다.
   airplane_game_making.vcxproj -> C:\Users\User\source\repos\airplane_game_making\x64\Debug\airplane_game_making.exe
